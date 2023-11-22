@@ -19,3 +19,14 @@ Welcome to the development repository for ShoeStorePro, an innovative online pla
  # Search and Recommendations
  - Advanced Search Functionality: Helps users find products quickly.
  - Personalized Recommendations: Suggests products based on user preferences and browsing history.
+
+# Technologies
+ShoeStorePro is built using cutting-edge technologies to ensure a robust and scalable solution:
+
+JavaScript: For dynamic content and interactive features.
+React: A powerful JavaScript library for building user interfaces, ensuring a fast, scalable, and simple development process.
+Additional Libraries and Tools:
+React Router: For efficient in-app routing.
+Redux: For state management across components.
+Axios: For making HTTP requests to any back-end services.
+Bootstrap or Material-UI: For responsive design elements and pre-built components.
